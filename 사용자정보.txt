@@ -1,2 +1,3 @@
 username: bbpandc
 email: haeminsia@naver.com
+name: haemin kim
